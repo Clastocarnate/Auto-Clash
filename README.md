@@ -19,7 +19,7 @@ pip install mss opencv-python screeninfo pyautogui
 
 1. Clone or download this repository to your local machine.
 
-2. Ensure the game window is visible on your screen.
+2. Ensure the game window is visible on your screen (BlueStacks).
 
 3. Run the script:
 
